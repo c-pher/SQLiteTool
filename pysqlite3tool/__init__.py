@@ -2,6 +2,9 @@ import os
 import sqlite3
 
 
+__version__ = '0.0.1a'
+
+
 class DBOpen:
     """
     Simple CM for sqlite3 databases. Commits everything at exit.
@@ -73,6 +76,7 @@ class SQLiteTool:
         :param table:
         :param order:
         :param last:
+        :param column:
         :return:
         """
 
