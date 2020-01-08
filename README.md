@@ -1,5 +1,5 @@
-[![PyPI version](https://badge.fury.io/py/sqlite3tool.svg)](https://badge.fury.io/py/pywinos)
-[![Build Status](https://travis-ci.org/c-pher/sqlite3tool.svg?branch=master)](https://travis-ci.org/c-pher/sqlite3tool)
+[![PyPI version](https://badge.fury.io/py/SQLiteTool.svg)](https://badge.fury.io/py/SQLiteTool)
+[![Build Status](https://travis-ci.org/c-pher/SQLiteTool.svg?branch=master)](https://travis-ci.org/c-pher/SQLiteTool)
 
 # SQLiteTool
 The cross-platform sqlite3 based tool to work with SQLite database.
@@ -17,7 +17,7 @@ SQLiteTool can:
 ## Installation
 For most users, the recommended method to install is via pip:
 ```cmd
-pip install psqlite
+pip install pysqlite3tool
 ```
 ## Import
 ```python
